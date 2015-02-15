@@ -1,3 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">AppShell</string>
+
+    <!-- web app url -->
+    <string name="app_intro">http://app.illvili.me/</string>
+
+    <string name="lost_connection_info">无法连接服务器</string>
+    <string name="lost_connection_baseurl">http://app.illvili.me/</string>
+
+    <!-- exit confirm strings -->
+    <string name="exit_title">退出</string>
+    <string name="exit_msg">确定要退出WebApp？</string>
+    <string name="exit_yes">立即退出</string>
+    <string name="exit_no">取消</string>
+
+    <!-- file download configs -->
+    <string name="download_cache_dir">AppShell</string>
+    <string name="download_cache_file">cache.jpg</string>
+    <string name="download_image_toast">载入图片中</string>
+    <string name="apk_allow_url">app.illvili.me</string>
+    <string name="apk_file">appshell.apk</string>
+    <string name="download_apk_start_toast">正在下载中</string>
+    <string name="download_apk_finished_toast">下载完成</string>
+    <string name="download_apk_error_toast">下载失败</string>
+
+    <!-- app shell js config -->
+    <string name="webapp_object_name">WebApp</string>
+    <string name="webapp_register">WebAppRegister</string>
+    <string name="webapp_register_platform">WEBAPP_PLATFORM_ANDROID</string>
+    <string name="webapp_device_keydown">WebAppDeviceKeyDown</string>
+    <string name="webapp_device_key_nemu">WEBAPP_DEVICE_KEY_MENU</string>
+
 </resources>

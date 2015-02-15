@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@android:id/background">
+       <shape>
+           <gradient
+               android:startColor="#775dcfef"
+               android:centerColor="#770c53c0"
+               android:endColor="#77006cd3"
+               android:angle="0"
+           />
+       </shape>
+	</item>
+	
+	<item android:id="@android:id/progress" android:drawable="@drawable/shinnyline"></item>
+</layer-list>

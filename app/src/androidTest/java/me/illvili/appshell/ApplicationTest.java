@@ -1,4 +1,4 @@
-package me.illvili.appshell;
+package me.illvili.AppShell;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
